@@ -4,24 +4,6 @@ Welcome to the **eCommerce Customer Analytics** project! This project focuses on
 
 ---
 
-## 📂 Repository Structure  
-eCommerce-Customer-Analytics/
-├── Data
-│   ├── Customers.csv
-│   ├── Products.csv
-│   ├── Transactions.csv
-├── Code
-│   ├── EDA.ipynb
-│   ├── Lookalike.ipynb
-│   ├── Clustering.ipynb
-├── Reports
-│   ├── EDA_Report.pdf
-│   ├── Clustering_Report.pdf
-├── Output
-│   ├── Lookalike.csv
-├── README.md
----
-
 ## 🎯 Project Tasks  
 
 ### 1. 📊 Exploratory Data Analysis (EDA) and Business Insights  
