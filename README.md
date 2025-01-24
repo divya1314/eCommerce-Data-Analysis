@@ -1,29 +1,31 @@
-# 🚀 Data Science Intern Assignment: eCommerce Transactions Dataset  
+# 🚀 eCommerce Customer Analytics: Segmentation and Insights  
 
-Welcome to the **Data Science Intern Assignment** repository! This project dives deep into an eCommerce transactions dataset, uncovering actionable insights, building predictive models, and segmenting customers to drive business growth. Let’s explore the world of data science and eCommerce together!  
+Welcome to the **eCommerce Customer Analytics** project! This project focuses on analyzing customer behavior, building predictive models, and segmenting customers to derive actionable insights for an eCommerce business. Using transaction and customer data, we explore patterns, build a lookalike model, and perform customer segmentation using clustering techniques.  
 
 ---
 
 ## 📂 Repository Structure  
-Data-Science-Intern-Assignment/
-├── Data/                  # Contains raw datasets
-│   ├── Customers.csv      # Customer profile data
-│   ├── Products.csv       # Product details
-│   ├── Transactions.csv   # Transaction records
-├── Code/                  # Jupyter Notebooks for each task
-│   ├── EDA.ipynb          # Exploratory Data Analysis
-│   ├── Lookalike.ipynb    # Lookalike Model Development
-│   ├── Clustering.ipynb   # Customer Segmentation
-├── Reports/               # PDF reports for EDA and Clustering
-│   ├── EDA_Report.pdf     # EDA insights and visualizations
-│   ├── Clustering_Report.pdf  # Clustering results and metrics
-├── Output/                # Output files
-│   ├── Lookalike.csv      # Lookalike recommendations
-├── README.md              # You're here! 
+
+eCommerce-Customer-Analytics/
+├── Data/ # Contains raw datasets
+│ ├── Customers.csv # Customer profile data
+│ ├── Products.csv # Product details
+│ ├── Transactions.csv # Transaction records
+├── Code/ # Jupyter Notebooks for each task
+│ ├── EDA.ipynb # Exploratory Data Analysis
+│ ├── Lookalike.ipynb # Lookalike Model Development
+│ ├── Clustering.ipynb # Customer Segmentation
+├── Reports/ # PDF reports for EDA and Clustering
+│ ├── EDA_Report.pdf # EDA insights and visualizations
+│ ├── Clustering_Report.pdf # Clustering results and metrics
+├── Output/ # Output files
+│ ├── Lookalike.csv # Lookalike recommendations
+├── README.md # You're here!
+
 
 ---
 
-## 🎯 Tasks and Deliverables  
+## 🎯 Project Tasks  
 
 ### 1. 📊 Exploratory Data Analysis (EDA) and Business Insights  
 - **Goal**: Uncover patterns, trends, and actionable insights from the dataset.  
@@ -41,8 +43,8 @@ Data-Science-Intern-Assignment/
 - **Goal**: Group customers into meaningful segments using clustering techniques.  
 - **Deliverables**:  
   - `Clustering.ipynb`: Jupyter Notebook with clustering code.  
-  - `Clustering_Report.pdf`: PDF report with clustering results, metrics, and visualizations.
- 
+  - `Clustering_Report.pdf`: PDF report with clustering results, metrics, and visualizations.  
+
 ---
 
 ## 🌟 Key Insights and Results  
@@ -69,18 +71,7 @@ Data-Science-Intern-Assignment/
 
 ---
 
-## 🏆 Evaluation Criteria  
-| Task                        | Weightage |
-|-----------------------------|-----------|
-| EDA and Business Insights   | 25%       |
-| Lookalike Model             | 30%       |
-| Customer Segmentation       | 30%       |
-| Code Quality and Documentation | 15%     |
-
----
-
 ## ✨ Final Note  
 This project showcases the power of data science in transforming raw data into actionable insights and predictive models. Whether you're exploring customer behavior, building recommendation systems, or segmenting customers, this repository has it all!  
 
 Feel free to explore, fork, and contribute. For questions or feedback, open an issue or reach out!  
-
